@@ -51,12 +51,3 @@ The model uses meteorological records and components of the Canadian Forest Fire
 - **Deployment:** Streamlit Cloud
 
 ---
-
-## 🚀 Getting Started Locally
-
-Follow these steps to run the application on your local machine:
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
-cd <your-repo-name>
